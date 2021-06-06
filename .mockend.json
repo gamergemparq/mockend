@@ -13,5 +13,5 @@
   "User": {
     "name": "string",
     "createdAt": "date",
-  }
+  },
 }
