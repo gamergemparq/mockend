@@ -9,9 +9,5 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  },
-  "User": {
-    "name": "string",
-    "createdAt": "date",
-  },
+  }
 }
